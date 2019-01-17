@@ -1,0 +1,4 @@
+{
+  "os": {"type": "windows", "version:": "10 "},
+  "browser": {"type": "firefox", "version:": "64.0"}
+}
